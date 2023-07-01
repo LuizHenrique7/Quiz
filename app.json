@@ -4,10 +4,10 @@
     "slug": "quiz",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/Logo.png",
+    "icon": "./assets/Logo10.jpeg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/miniLogo.png",
+      "image": "./assets/Logo10.jpeg",
       "resizeMode": "stretch",
       "backgroundColor": "#5CA0E6"
     },
@@ -19,7 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/Logo.png",
+        "foregroundImage": "./assets/Logo10.jpeg",
         "backgroundColor": "#ffffff"
       }
     },

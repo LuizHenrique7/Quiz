@@ -111,7 +111,7 @@ export default function App() {
     
     <ImageBackground source={background} style={styles.backgroundImage}>
   <View style={styles.container}>
-    <Image source={require('./image/Logo.png')} style={styles.image} />
+    <Image source={require('./image/Logo10.jpeg')} style={styles.image} />
 
     {!quizStarted && !quizCompleted && !selectedLevel && (
       <TouchableOpacity style={styles.buttonStart} onPress={handleStartQuiz}>
@@ -190,7 +190,7 @@ const styles = StyleSheet.create({
     borderRadius: 5,
   },
   buttonStart: {
-    backgroundColor: '#5CA0E6',
+    backgroundColor: '#78B0B2',
     padding: 30,
     borderRadius: 8,
     marginBottom: 250,
